@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Vercel-specific settings
+.vercel
+
+# OS files
+.DS_Store
+Thumbs.db
